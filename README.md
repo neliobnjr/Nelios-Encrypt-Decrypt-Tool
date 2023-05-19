@@ -17,7 +17,7 @@ This is a simple web application that demonstrates AES encryption and decryption
 
 ## How to Use
 
-1. Open the [Message Encryption-Decryption Tool](https://your-github-username.github.io/aes-encryption-demo/) in your web browser.
+1. Open the [Message Encryption-Decryption Tool](https://neliobnjr.github.io/Nelios-Encrypt-Decrypt-Tool/) in your web browser.
 2. Enter a secret key in the "Key" input field.
 3. Enter a message in the "Message" input field.
 4. Click the "Encrypt" button to encrypt the message.
